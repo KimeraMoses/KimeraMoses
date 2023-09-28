@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimeramoses&label=Profile%20views&color=0e75b6&style=flat" alt="kimeramoses" /> </p>
 
-- 🌱 I’m currently learning **NodeJs, Express Js, MongoDB and AWS**
+- 🌱 I’m currently learning  AWS, golang, React Native, and MySQL
 
-- 💬 Ask me about **React, Redux,Html, Css, JavaScript, Material UI, Bootstrap, Saas, Web Socket, Typescript, Scss, Tailwind Css, Chakra ui, GraphQl**
+- 💬 Ask me about **React, Redux,Html, Css, JavaScript, Material UI, Bootstrap, Saas, Web Socket, Typescript, Scss, Tailwind Css, Chakra ui, GraphQl, Node js, MongoDB**
 
 - 📫 How to reach me **kimeramoses001@gmail.com**
 
