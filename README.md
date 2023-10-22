@@ -19,6 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimeramoses&show_icons=true&locale=en&layout=compact" alt="kimeramoses" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimeramoses&show_icons=true&locale=en" alt="kimeramoses" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimeramoses&" alt="kimeramoses" /></p>
